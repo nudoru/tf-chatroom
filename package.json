@@ -1,0 +1,23 @@
+{
+  "name": "tf-chatroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nudoru/tf-chatroom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nudoru/tf-chatroom/issues"
+  },
+  "homepage": "https://github.com/nudoru/tf-chatroom",
+  "dependencies": {
+    "express": "^4.13.1",
+    "socket.io": "^1.3.5"
+  }
+}
